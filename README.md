@@ -4,21 +4,16 @@ It's my personal homepage that cointains my vitae as webpage. It's a extension o
 
 This repository can be visualize in https://emanuelfontelles.github.io/vitae.
 
- 
-
-Personal homepage (curriculum vitae or resume) based on [João's](https://github.com/joaomoreno/resume).
-Vitae is built with [skeleton](http://getskeleton.com/), powered by [Jekyll](http://jekyllrb.com/) and freely
-hosted in [Github pages](https://pages.github.com/).
-
+This homepage is a fork from [Jekyll](https://github.com/jekyller/vitae). Please see and contribute with that repository.
 
 ## View the live demo
 
-[Vitae Live Demo](https://jekyller.github.io/vitae)
+[Vitae Live Demo](https://emanuelfontelles.github.io/vitae)
 
 
 ## Screenshots
 
-![resume page](https://raw.githubusercontent.com/jekyller/vitae/gh-pages/assets/images/vitae_screen.png)
+![resume page](assets/images/screenshot.png)
 
 
 ## How to use it
