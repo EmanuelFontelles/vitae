@@ -1,7 +1,6 @@
-
 # Vitae
 
-[![Build Status](https://secure.travis-ci.org/jekyller/vitae.png?branch=gh-pages)](http://travis-ci.org/jekyller/vitae)
+It's my personal homepage that cointains my vitae as webpage. It's a extension of the https://emanuelfontelles.github.io/ .
 
 Personal homepage (curriculum vitae or resume) based on [João's](https://github.com/joaomoreno/resume).
 Vitae is built with [skeleton](http://getskeleton.com/), powered by [Jekyll](http://jekyllrb.com/) and freely
