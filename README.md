@@ -1,6 +1,10 @@
 # Vitae
 
-It's my personal homepage that cointains my vitae as webpage. It's a extension of the https://emanuelfontelles.github.io/ .
+It's my personal homepage that cointains my vitae as webpage. It's a extension of the https://emanuelfontelles.github.io/. 
+
+This repository can be visualize in https://emanuelfontelles.github.io/vitae.
+
+ 
 
 Personal homepage (curriculum vitae or resume) based on [João's](https://github.com/joaomoreno/resume).
 Vitae is built with [skeleton](http://getskeleton.com/), powered by [Jekyll](http://jekyllrb.com/) and freely
