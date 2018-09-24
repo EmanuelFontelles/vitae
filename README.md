@@ -2,7 +2,6 @@
 
 It's my personal homepage that cointains my vitae as webpage. It's a extension of the https://emanuelfontelles.github.io/. 
 
-<<<<<<< HEAD
 This repository can be visualize in https://emanuelfontelles.github.io/vitae.
 
 This homepage is a fork from [Jekyll](https://github.com/jekyller/vitae). Please see and contribute with that repository.
@@ -12,8 +11,6 @@ This homepage is a fork from [Jekyll](https://github.com/jekyller/vitae). Please
 [Vitae Live Demo](https://emanuelfontelles.github.io/vitae)
 
 
-=======
->>>>>>> gh-pages
 ## Screenshots
 
 ![resume page](assets/images/screenshot.png)
